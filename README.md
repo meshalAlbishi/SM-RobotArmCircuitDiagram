@@ -1,2 +1,5 @@
 # SM-RobotArmCircuitDiagram
-available to run from tinkercad https://www.tinkercad.com/things/l4qmaHHJT9x-robot-arm-circuit-diagram 
+
+this is the first task from Electronics and Power Department, the design of the robot arm have 5 servo one of them for the grip
+
+## Conncetion in the Board
