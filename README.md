@@ -10,11 +10,11 @@ this is the first task from Electronics and Power Department, the design of the 
 ## Connecting Servo
 the following the servos details
 
-* Base Servo -> digital bin 8
-** Shoulder Servo -> digital bin 9
-*** Elbow Servo -> digital bin 10
-**** Wrist Servo -> digital bin 11
-***** gripper Servo -> digital bin 12
+1. Base Servo -> digital bin 8
+2. Shoulder Servo -> digital bin 9
+3. Elbow Servo -> digital bin 10
+4. Wrist Servo -> digital bin 11
+5. gripper Servo -> digital bin 12
 
 ## Preview 
 ![Image of Arduino Diagram](https://github.com/meshalAlbishi/SM-RobotArmCircuitDiagram/blob/main/robot_arm_circuit_diagram.png)
