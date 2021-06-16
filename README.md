@@ -3,7 +3,7 @@
 this is the first task from Electronics and Power Department, the design of the robot arm have 5 servo one of them for the grip
 
 ## What is the Task?
-the repositoreis include the following tasks:
+the repositories include the following tasks:
 1. Design of an electronic circuit to control 5 servo motors 
 2. Programming the electronic circuit so that all movements are moveing by 90 degrees
 
