@@ -8,7 +8,7 @@ the repository include the following tasks:
 2. Programming the electronic circuit so that all movements are moveing by 90 degrees
 
 ## The Arduino Parts
-based on the given [circuit](https://github.com/smart-methods/arduino_robot_arm#circuit-diagram)
+based on the given [circuit](https://github.com/smart-methods/arduino_robot_arm/blob/main/circuit.png)
 - 4 servo (SM-S23095)
 - 1 servo (Positional)
 - 1 Small Breadborad
