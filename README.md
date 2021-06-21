@@ -23,4 +23,5 @@ servos details
 5. gripper Servo -> digital bin 12
 
 ## Preview 
+it's available to simulate from tinkercad from [here](https://www.tinkercad.com/things/l4qmaHHJT9x-robot-arm-circuit-diagram)
 ![Image of Arduino Diagram](https://github.com/meshalAlbishi/SM-RobotArmCircuitDiagram/blob/main/robot_arm_circuit_diagram.png)
